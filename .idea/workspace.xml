@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fee0223-6606-4e26-bdc5-aee15acfcf11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers/cats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/handlers/space.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/keyboards/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/keyboards/inline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/cat_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/nasa_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/states/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/states/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TG05_cat_space_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TG05_cat_space_bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
